@@ -410,7 +410,8 @@ export default defineConfig({
 		allowedHosts: [
 			'.app-preview.com',
 			'.app-preview.io',
-			'saalrvmi80rhg57gsjwnvjwb.43.156.233.211.sslip.io'
+			'lerynpest.com',
+			'www.lerynpest.com'
 		],
 		fs: {
 			strict: true,
